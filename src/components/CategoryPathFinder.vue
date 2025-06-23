@@ -103,7 +103,7 @@
 
 <script setup lang="ts">
   import { ref, computed, type Ref, type ComputedRef } from 'vue'
-  import type { Category, TestCase, CategoryPath } from '../../types/category'
+  import type { Category, TestCase, CategoryPath } from '../types/category'
 
   // Category data with proper typing
   const categories: Category[] = [
