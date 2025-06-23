@@ -5,7 +5,7 @@
 </template>
 
 <script setup lang="ts">
-import CategoryPathFinder from './CategoryPathFinder.vue'
+import CategoryPathFinder from './components/CategoryPathFinder.vue'
 </script>
 
 <style scoped>

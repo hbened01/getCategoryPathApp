@@ -1,7 +1,7 @@
 import { describe, it, expect, beforeEach } from "vitest"
 import { mount, type VueWrapper } from "@vue/test-utils"
-import CategoryPathFinder from "./CategoryPathFinder.vue"
-import type { Category, CategoryPath } from "./types/category"
+import CategoryPathFinder from "./../components/CategoryPathFinder.vue"
+import type { Category, CategoryPath } from "../types/category"
 
 // Define the component instance type
 type CategoryPathFinderInstance = {
