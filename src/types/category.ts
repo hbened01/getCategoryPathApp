@@ -12,7 +12,7 @@ export interface TestResult {
   category: string
   actual: string | null
   expected: string | null
-  status: "PASS" | "FAIL"
+  status: 'PASS' | 'FAIL'
 }
 
 export type CategoryPath = string | null
