@@ -196,7 +196,8 @@ const testAllCategories = (): void => {
     { category: 'category4', expected: '/category1/category3/category4' },
     { category: 'category2', expected: '/category1/category2' },
     { category: 'category5', expected: '/category5' },
-    { category: 'category1', expected: '/category1' }
+    { category: 'category1', expected: '/category1' },
+    { category: 'category10', expected: '/category10' },
   ]
   
   const results: string[] = []
