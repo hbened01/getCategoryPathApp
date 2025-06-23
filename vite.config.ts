@@ -4,6 +4,7 @@ import { resolve } from "path"
 
 // https://vitejs.dev/config/
 export default defineConfig({
+  base: 'https://github.com/hbened01/getCategoryPathApp',
   plugins: [vue()],
   resolve: {
     alias: {
