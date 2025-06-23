@@ -32,8 +32,8 @@ A modern Vue 3 application built with TypeScript and Composition API that finds 
 
 1. Clone the repository:
 \`\`\`bash
-git clone https://github.com/yourusername/vue3-category-path-finder.git
-cd vue3-category-path-finder
+git clone https://github.com/hbened01/getCategoryPathApp.git
+cd getCategoryPathApp
 \`\`\`
 
 2. Install dependencies:
